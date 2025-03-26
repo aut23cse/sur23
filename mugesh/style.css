@@ -1,0 +1,11 @@
+div {
+    padding-top: 3%;
+    border-top: 30%;
+    content-visibility: 10%;
+    text-align:start;
+}
+
+.one {
+   position: relative;
+   top: -280px;
+}
